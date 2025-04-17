@@ -1,5 +1,5 @@
 # Papaya
-Tool to vizualize electron orbits around a nucleus
+Tool to visualize electron orbits around a nucleus
 > **Note**
 > Papaya currently only supports orbits up to the 3rd energy level
 ## Planned Updates
@@ -29,6 +29,6 @@ run the papaya application
 # Controls
 - wasd: move
 - up/down arrows: zoom in and out
-### only in orbit vizualization mode
+### only in orbit visualization mode
 - z/x: change intensity of orbits color
 - 1/2/3: view xz, xy, and zy planes respectively 
