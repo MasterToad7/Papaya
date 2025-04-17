@@ -3,7 +3,7 @@ Tool to visualize electron orbits around a nucleus
 > **Note**
 > Papaya currently only supports orbits up to the 3rd energy level
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/cPvuuZxEDfY/0.jpg)](http://www.youtube.com/watch?v=cPvuuZxEDfY "Papaya electron orbital viewer release ")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/cPvuuZxEDfY/1.jpg)](http://www.youtube.com/watch?v=cPvuuZxEDfY "Papaya electron orbital viewer release ")
 
 ## Planned Updates
 - Add support for more energy levels
