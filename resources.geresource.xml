@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+    <gresource prefix="/org/papaya">
+        <file>shaders/general/graph.frag</file>
+        <file>shaders/general/radial.frag</file>
+        <file>shaders/general/slice.frag</file>
+        <file>shaders/orbitals/harmonic/00.frag</file>
+        <file>shaders/orbitals/harmonic/1-1.frag</file>
+        <file>shaders/orbitals/harmonic/2-1.frag</file>
+        <file>shaders/orbitals/harmonic/10.frag</file>
+        <file>shaders/orbitals/harmonic/11.frag</file>
+        <file>shaders/orbitals/harmonic/20.frag</file>
+        <file>shaders/orbitals/harmonic/21.frag</file>
+        <file>shaders/orbitals/harmonic/22.frag</file>
+        <file>shaders/orbitals/radial/10.frag</file>
+        <file>shaders/orbitals/radial/20.frag</file>
+        <file>shaders/orbitals/radial/21.frag</file>
+        <file>shaders/orbitals/radial/30.frag</file>
+        <file>shaders/orbitals/radial/31.frag</file>
+        <file>shaders/orbitals/radial/32.frag</file>
+    </gresource>
+</gresources>
