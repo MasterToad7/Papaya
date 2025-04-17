@@ -6,7 +6,9 @@ Tool to visualize electron orbits around a nucleus
 - Add support for more energy levels
 - Allow for forward and backward movement in slice mode
 - 3D voxel view of orbits
-- More settings for customizing experience 
+- More settings for customizing experience
+- Fix misspelling of "visualize" in UI
+- Add support for Windows
 
 # How To Compile
 ## Dependencies
