@@ -20,8 +20,8 @@ run the papaya application
 ```
 
 # Controls
-wasd: move
-up/down arrows: zoom in and out
+- wasd: move
+- up/down arrows: zoom in and out
 ### only in orbit vizualization mode
-z/x: change intensity of orbits color
-1/2/3: view xz, xy, and zy planes respectively 
+- z/x: change intensity of orbits color
+- 1/2/3: view xz, xy, and zy planes respectively 
