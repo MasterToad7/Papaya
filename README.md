@@ -1,5 +1,12 @@
 # Papaya
 Tool to vizualize electron orbits around a nucleus
+> **Note**
+> Papaya currently only supports orbits up to the 3rd energy level
+## Planned Updates
+- Add support for more energy levels
+- Allow for forward and backward movement in slice mode
+- 3D voxel view of orbits
+- More settings for customizing experience 
 
 # How To Compile
 ## Dependencies
